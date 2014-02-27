@@ -4,4 +4,4 @@ WebsiteSystem
 University group work.##
 
 
-![ScreenShot](/images/Capture.png)
+![ScreenShot](/images/Capture.PNG)
